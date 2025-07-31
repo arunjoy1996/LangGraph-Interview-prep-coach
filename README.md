@@ -21,21 +21,6 @@ Make sure you have these installed:
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 - [Git](https://git-scm.com/)
 
----
-
-## 📦 Project Structure
-project/
-├── backend/
-│ ├── app.py # FastAPI or backend logic
-│ ├── requirements.txt
-│ └── Dockerfile
-├── frontend/
-│ ├── app.py # Streamlit app
-│ ├── requirements.txt
-│ └── Dockerfile
-├── docker-compose.yml
-└── README.md
-
 
 ---
 
